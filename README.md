@@ -1,2 +1,2 @@
 # structs
-A repository will hackerrank solutions and explanations
+A repository with hackerrank solutions and explanations
